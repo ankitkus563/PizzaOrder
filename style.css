@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    margin: 5%;
+    background-color: green;
+    color: white;
+
+}
+
+
+#warn{
+
+    color: rgb(255, 238, 0);
+    font-size: small;
+}
+#content-box{
+    margin-top: 2%;
+    padding: 15px;
+    display: inline-block;
+}
+
+button{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: yellow;
+    border-style: none;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+    
